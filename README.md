@@ -24,5 +24,7 @@ BAM is a Bank Account Management System implemented using PyQt6 and PostgreSQL. 
 ![ForgotPassword_Page](https://github.com/JuhiCode94/BAM/assets/148118336/b2f80f42-5540-460c-8085-3e34fdc42f9b)
 ![MainAccount_Page](https://github.com/JuhiCode94/BAM/assets/148118336/66309f20-444f-4f8e-b157-ca685601f29c)
 ![AccountDetails_Page_1](https://github.com/JuhiCode94/BAM/assets/148118336/104c4b65-e089-440b-82c2-36b1903e1580)
-![DepositMoney_Page_1](https://github.com/JuhiCode94/BAM/assets/148118336/9ee08583-1974-4111-b85a-62e35f2ed55b) ![DepositMoney_Page_2](https://github.com/JuhiCode94/BAM/assets/148118336/8bb91231-7eda-4db7-a18e-bce310c5bdeb)
-
+![AccountDetails_Page_2](https://github.com/JuhiCode94/BAM/assets/148118336/1c04086b-fd21-4b32-bb91-56634c4d16fb)
+![DepositMoney_Page_1](https://github.com/JuhiCode94/BAM/assets/148118336/9ee08583-1974-4111-b85a-62e35f2ed55b)
+![DepositMoney_Page_2](https://github.com/JuhiCode94/BAM/assets/148118336/98db249f-c770-4c98-8684-37347905d0ee)
+![WithdrawMoney](https://github.com/JuhiCode94/BAM/assets/148118336/8bdf129e-84e7-415c-b08a-8869bb841a96)
