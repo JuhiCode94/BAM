@@ -12,7 +12,7 @@ BAM is a Bank Account Management System implemented using PyQt6 and PostgreSQL. 
 ## Requirements
 - Python 3.x
 - PyQt6
-- PostgreSQL
+- PostgreSQL 16.0
 - Psycopg2
 
 ## Screenshots
