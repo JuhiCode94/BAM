@@ -11,9 +11,9 @@ BAM is a Bank Account Management System implemented using PyQt6 and PostgreSQL. 
 
 ## Setup
 
-    Install PostgreSQL:
-    Ensure that PostgreSQL 16.0 is installed on your system and the PostgreSQL server is running. You can download and install PostgreSQL from the official PostgreSQL 
-    website if you haven't done so already.
+**Install PostgreSQL:**
+
+    Ensure that PostgreSQL 16.0 is installed on your system and the PostgreSQL server is running. You can download and install PostgreSQL from the [official PostgreSQL website](https://www.postgresql.org/) if you haven't done so already.
 
 **Create a virtual environment and activate it:**
 
