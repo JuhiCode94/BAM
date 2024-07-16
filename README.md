@@ -9,6 +9,25 @@ BAM is a Bank Account Management System implemented using PyQt6 and PostgreSQL. 
 - **Transactions:** Deposit, withdraw, transfer funds, and view transaction history.
 - **ATM Card Management:** Request a new ATM card, activate cards, change card limit, block/unblock cards, and view linked card details.
 
+## Setup
+
+    Install PostgreSQL:
+    Ensure that PostgreSQL 16.0 is installed on your system and the PostgreSQL server is running. You can download and install PostgreSQL from the official PostgreSQL 
+    website if you haven't done so already.
+
+**Create a virtual environment and activate it:**
+
+    ```
+    python -m venv venv
+    source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+    ```
+
+**Install the required packages:**
+
+    ```
+    pip install -r requirements.txt
+    ```
+
 ## Requirements
 - Python 3.x
 - PyQt6
