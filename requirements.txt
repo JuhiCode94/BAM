@@ -1,0 +1,7 @@
+greenlet==3.0.3
+psycopg2-binary==2.9.9
+PyQt6==6.7.0
+PyQt6-Qt6==6.7.2
+PyQt6_sip==13.8.0
+SQLAlchemy==2.0.31
+typing_extensions==4.12.2
